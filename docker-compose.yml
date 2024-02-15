@@ -3,5 +3,5 @@ services:
   backend:
     image: khantzawhein/234-deploylab-backend:latest
     ports:
-      - "8085:8000"
+      - "8085:8080"
       
